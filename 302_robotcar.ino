@@ -13,7 +13,7 @@ const int motor2enable = 9;//9 on h-bridge right enable
 //const int onPin = 13;
 
 
-//hello friends still gotta figure out that red line shit
+
 const int lphoto = A5;
 const int mphoto = A4;
 const int rphoto = A3;
